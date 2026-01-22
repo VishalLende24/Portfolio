@@ -3,19 +3,19 @@ import WorkIcon from '@mui/icons-material/Work'
 
 const Experience = () => {
   const experiences = [
-     {
-      period: 'Dec 2025 - Present',
-      title: 'Software Development',
-      company: 'Hoora Technologies Private Limited',
-      responsibilities: [
-        'Working as a Software Developer, contributing to the development of new features and fixing bugs to improve application stability and performance.',
-        'Developed and enhanced application features using Node.js, Express, and TypeScript with MongoDb.',
-        'Collaborated with cross-functional teams including QA and product to ensure smooth feature delivery.',
-        'Identified, debugged, and resolved software defects to improve system reliability and user experience.',
-        'Optimized application performance and scalability through code optimization and database management.'
-      ],
-      tech: ['Node.js', 'TypeScript', 'MongoDb', 'Redis', 'Express', 'API integration']
-    },
+    //  {
+    //   period: 'Dec 2025 - Present',
+    //   title: 'Software Development',
+    //   company: 'Hoora Technologies Private Limited',
+    //   responsibilities: [
+    //     'Working as a Software Developer, contributing to the development of new features and fixing bugs to improve application stability and performance.',
+    //     'Developed and enhanced application features using Node.js, Express, and TypeScript with MongoDb.',
+    //     'Collaborated with cross-functional teams including QA and product to ensure smooth feature delivery.',
+    //     'Identified, debugged, and resolved software defects to improve system reliability and user experience.',
+    //     'Optimized application performance and scalability through code optimization and database management.'
+    //   ],
+    //   tech: ['Node.js', 'TypeScript', 'MongoDb', 'Redis', 'Express', 'API integration']
+    // },
     {
       period: 'Nov 2023 - Nov 2025',
       title: 'Software Development Team Lead',
